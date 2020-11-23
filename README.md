@@ -14,9 +14,6 @@ Full Stack Developer | ML enthusiast | Competitive Coder | Freelancer
 
 - 📫 Portfolio: https://sattyamjain.netlify.app
 
-## Skills ##
-----------------------------------------------------------------------------------------------------------------------------
-
 ### Certification ###
 - Artificial Intelligence: Responsible AI for Social Empowerment(RAISE2020)
 - International summit on Data Science and AI at RBCDSAI, IIT Madras
