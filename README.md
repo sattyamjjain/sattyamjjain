@@ -35,6 +35,6 @@ Full Stack Developer | ML enthusiast | Competitive Coder | Freelancer
 ## Github Readme Stats ##
 ----------------------------------------------------------------------------------------------------------------------------
 <a href="https://profile-summary-for-github.com/user/sattyamjjain">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=samkit5495&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Samkit's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkit5495&hide_langs_below=5&layout=compact" alt="Samkit's language stats"/>
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sattyamjjain&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Sattyam's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sattyamjjain&hide_langs_below=5&layout=compact" alt="Sattyam's language stats"/>
 </a>
