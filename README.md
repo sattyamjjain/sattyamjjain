@@ -1,18 +1,14 @@
 ## Hi 👋, Sattyam Jain, lets discuss Projects
 
-<a href="https://www.linkedin.com/in/sattyamjain/">
-  <img align="left" alt="Samkit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/Sattyamjjain">
-  <img align="left" alt="Samkit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-&nbsp;
-
 ## About Me ##
 ----------------------------------------------------------------------------------------------------------------------------
-Full Stack Developer | ML enthusiast | Competitive Coder | Freelancer
+Software Developer | DL enthusiast | Competitive Coder
 
 - 📫 Portfolio: https://sattyamjain.netlify.app
+- Linkedin: https://www.linkedin.com/in/sattyamjain/
+- Twitter: https://twitter.com/Sattyamjjain
+- Medium: https://medium.com/@sattyamjain96
+- Kaggle: https://www.kaggle.com/sattyam96
 
 ### Certification ###
 - Artificial Intelligence: Responsible AI for Social Empowerment(RAISE2020)
@@ -25,10 +21,10 @@ Full Stack Developer | ML enthusiast | Competitive Coder | Freelancer
 - CCC Course by NIELIT, Jhansi
 
 ### Skills ###
-- Back-end  - **Python (Django), Node.js (Express.js), Java (Spring Boot)**
-- Front-end - **React, HTML, CSS, Bootstrap & JavaScript, TypeScript, Redux/Mobx**
+- Back-end  - **Python, Java, Node**
+- Front-end - **React, TypeScript, Redux/Mobx**
 - Databases/ODM: - **MySQL, MongoDB.**
-- Tools: - **Git, Github, Jira, BitBucket, Docker, AWS**
+- Tools: - **Git, AWS, GCP, Github, Jira, BitBucket, Docker**
 - IDE: - **JetBrains Tools, VSCode, Postman**
 - **RestAPI, ML/DL, C/C++**
 
