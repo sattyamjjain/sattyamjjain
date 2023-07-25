@@ -1,18 +1,20 @@
-## Hi 👋, Sattyam Jain, lets discuss Projects
+## Hi 👋, Sattyam Jain, let's discuss Projects
 
 ## About Me ##
 ----------------------------------------------------------------------------------------------------------------------------
-Software Developer | DL enthusiast | Competitive Coder
+Software Developer Team Lead | DL enthusiast | Empowering Businesses as a Freelance Guru
 
 - 📫 Portfolio: https://sattyamjain.netlify.app
 - Linkedin: https://www.linkedin.com/in/sattyamjain/
 - Twitter: https://twitter.com/Sattyamjjain
 - Medium: https://medium.com/@sattyamjain96
 - Kaggle: https://www.kaggle.com/sattyam96
+- Dev Community: https://dev.to/sattyamjjain
 
 ### Certification ###
 - Artificial Intelligence: Responsible AI for Social Empowerment(RAISE2020)
-- International summit on Data Science and AI at RBCDSAI, IIT Madras
+- Completing Deep Learning Specialization by Andrew Ng (Coursera)
+- An international summit on Data Science and AI at RBCDSAI, IIT Madras
 - i5 Summit (Entrepreneurship Summit of Central India presented by IIT & IIM Indore)
 - Participated at ACM Chapter HACKATHON, MITS Gwalior
 - O Level Course Organized by NIELIT (DOEACC), Jhansi
@@ -21,12 +23,12 @@ Software Developer | DL enthusiast | Competitive Coder
 - CCC Course by NIELIT, Jhansi
 
 ### Skills ###
-- Back-end  - **Python, Java, Node**
-- Front-end - **React, TypeScript, Redux/Mobx**
+- Back-end  - **Python, Java**
+- Deep Learning / Machine Learning
+- Front-end - **React, TypeScript**
 - Databases/ODM: - **MySQL, MongoDB.**
 - Tools: - **Git, AWS, GCP, Github, Jira, BitBucket, Docker**
 - IDE: - **JetBrains Tools, VSCode, Postman**
-- **RestAPI, ML/DL, C/C++**
 
 ## Github Readme Stats ##
 ----------------------------------------------------------------------------------------------------------------------------
