@@ -2,9 +2,9 @@
 
 ## About Me ##
 ----------------------------------------------------------------------------------------------------------------------------
-Software Developer Team Lead | DL enthusiast | Empowering Businesses as a Freelance Guru
+Senior Software Developer | AI/ML enthusiast | Empowering Businesses as a Freelance Guru
 
-- 📫 Portfolio: https://sattyamjain.netlify.app
+- 📫 Portfolio: https://sattyamjain.vercel.app/
 - Linkedin: https://www.linkedin.com/in/sattyamjain/
 - Twitter: https://twitter.com/Sattyamjjain
 - Medium: https://medium.com/@sattyamjain96
