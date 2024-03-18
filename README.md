@@ -1,7 +1,5 @@
 # Hello World, I'm [Your Name] 👋
 
-![Banner Image](URL_to_Your_Banner_Image)
-
 <p align="center">
   <i>Let's connect and chat! Open to collaboration and opportunities!</i>
 </p>
