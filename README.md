@@ -1,6 +1,6 @@
 # Hello, I'm [Your Full Name]!
 
-![Banner](URL_to_Your_Custom_Banner)
+![Visitor Count](https://komarev.com/ghpvc/?username=Your_GitHub_Username&color=blue)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your_Linkedin_URL)
