@@ -11,17 +11,20 @@
 <div>
 <br>
 
-- 👷 <samp><b>Edison Engineer @ GE Healthcare</b>
-- 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
-- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- 🧑🏽 <samp><b>Founder of Hack Club NITRR (October 2021 - Present)</b>
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ♟ <samp>I play a lot of chess, and I am 1400-1500 rated on chess.com.
+- 👨‍💻 <samp><b>Senior Software Engineer III @ Zenarate | Gurgaon, India</b>
+- 🚀 <samp><b>Driving innovative software solutions at Zenarate, leveraging Python, MongoDB, GitHub, and AWS</b>
+- 🧠 <samp><b>Passionate about pioneering technologies like AI/ML and DevOps tools</b>
+- 🎓 <samp><b>MCA from Madhav Institute of Technology and Science, Gwalior with certifications in data science, AI, Python, and JavaScript</b>
+- 💼 <samp><b>Former Software Engineering Team Lead @ MyShubhLife, reducing onboarding time by 50%</b>
+- 🛠️ <samp><b>Contributed to building a full-stack E-commerce platform as a freelance developer</b>
+- 📚 <samp><b>Mastered top skills in TensorFlow, PyTorch, and Scikit-Learn</b>
+- 📝 <samp><b>Regularly sharing insights and experiences on my [blog](https://dev.to/sattyamjjain) and [Medium](https://medium.com/@sattyamjain96)</b>
+- 🎖️ <samp><b>Honored with certifications in O level Course, Data Science, and AI, and recognized as a CutShort Certified Javascript - Advanced professional</b>
+- 🌐 <samp><b>Connect with me on [LinkedIn](https://www.linkedin.com/in/sattyamjain/) or explore my [portfolio](https://sattyamjain.vercel.app/)</b>
 </div>
+
+<div>
+<br>
 
 <table>
 <tr>
@@ -42,31 +45,37 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
-    
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)&nbsp;
+
 </td>
 <td valign="top" width="50%">
 
 ### Tools and Platforms
 
-![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)&nbsp;
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)&nbsp;
+![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)&nbsp;
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)&nbsp;
 
 </td>
 </tr>
 </table>
+    
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -83,13 +92,18 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/amandewatnitrr/A-10-NEXA">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=A-10-NEXA" />
+      <a href="https://pypi.org/project/pyAGI/">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=pyAGI" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
+      <a href="https://pub.dev/packages/dtwdistance">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=dtwdistance" />
+      </a>
+    </td>
+    <td>
+      <a href="https://pypi.org/project/PyDSAlgo/">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=PyDSAlgo" />
       </a>
     </td>
   </tr>
@@ -99,16 +113,18 @@
 
 ## 📕 Latest Blog Posts
 
-- [Redécouverte et émerveillement : le Single Action Controller de Laravel depuis sa version 8](https://www.kilukru.dev/redecouverte-et-emerveillement-le-single-action-controller-de-laravel-depuis-sa-version-8/)
-- [10 Façons de décourager les développeurs au travail](https://www.kilukru.dev/10-facons-de-decourager-les-developpeurs-au-travail/)
-- [Révolution SEO avec ChatGPT : Découvrez le Plugin Rapport Speedix pour des Analyses Intelligentes](https://www.kilukru.dev/revolution-seo-avec-chatgpt-decouvrez-le-plugin-rapport-speedix-pour-des-analyses-intelligentes/)
-- [Rapport Speedix et Kilukru : Votre Alliance pour une Optimisation SEO Accessible et Efficace](https://www.kilukru.dev/rapport-speedix-et-kilukru-votre-alliance-pour-une-optimisation-seo-accessible-et-efficace/)
-- [Un guide de communication client pour les développeurs et agences](https://www.kilukru.dev/un-guide-de-communication-client-pour-les-developpeurs-et-agences/)
-- [Quand la simplicité bat la complexité : Réflexions sur l’article de Dominic Gagnon](https://www.kilukru.dev/quand-la-simplicite-bat-la-complexite-reflexions-sur-larticle-de-dominic-gagnon/)
-- [Comment gérer plusieurs projets en tant que développeur](https://www.kilukru.dev/comment-gerer-plusieurs-projets-en-tant-que-developpeur/)
-- [Les 10 principes d’une bonne conception de site web en 2023](https://www.kilukru.dev/les-10-principes-dune-bonne-conception-de-site-web-en-2023/)
-- [Comment définir un projet réussi en 10 étapes](https://www.kilukru.dev/comment-definir-un-projet-reussi-en-10-etapes/)
-- [Conseils pour définir la portée d’un projet](https://www.kilukru.dev/conseils-pour-definir-la-portee-dun-projet/)
+
+- [(It’s a MYTH) Yoga is nothing more than stretching and It can be taught by anybody.](https://medium.com/@sattyamjain96/its-a-myth-yoga-is-nothing-more-than-stretching-and-it-can-be-taught-by-anybody-e9269f613ddb)
+- [(dtwdistance) Dynamic Time Warping Distance](https://medium.com/aimonks/dtwdistance-dynamic-time-warping-distance-81030be0d85c)
+- [The Rise of Code Llama: A New Era in AI-Powered Coding](https://dev.to/sattyamjjain/the-rise-of-code-llama-a-new-era-in-ai-powered-codinghello-devto-community-1onf)
+- [Introducing Shell-AI: Elevate Your Command Line Experience with Natural Language](https://dev.to/sattyamjjain/introducing-shell-ai-elevate-your-command-line-experience-with-natural-language-5fdd)
+- [Jailbreaking GPT-4's Code Interpreter: Unleashing the Untamed AI!](https://dev.to/sattyamjjain/jailbreaking-gpt-4s-code-interpreter-unleashing-the-untamed-ai-42ea)
+- [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://dev.to/sattyamjjain/exploring-12-million-of-the-23-billion-images-used-to-train-stable-diffusions-image-generator-52f0)
+- [Meet CM3leon, the Game-Changing Multimodal Generative Model!](https://dev.to/sattyamjjain/meet-cm3leon-the-game-changing-multimodal-generative-model-531b)
+- [Unveiling the Threat: How We Discovered the Vulnerability in LLM Supply Chain](https://dev.to/sattyamjjain/unveiling-the-threat-how-we-discovered-the-vulnerability-in-llm-supply-chain-1oib)
+- [Unleash the Power of Video-LLaMA: Revolutionizing Language Models with Video and Audio Understanding!](https://dev.to/sattyamjjain/unleash-the-power-of-video-llama-revolutionizing-language-models-with-video-and-audio-understanding-mnb)
+- [AWQ: A Revolutionary Approach to Quantization for Large Language Model Compression and Acceleration](https://dev.to/sattyamjjain/awq-a-revolutionary-approach-to-quantization-for-large-language-model-compression-and-acceleration-ad2)
+- [Exploring TermGPT: A Powerful Tool for Terminal-based Interactions with GPT](https://dev.to/sattyamjjain/exploring-termgpt-a-powerful-tool-for-terminal-based-interactions-with-gpt-15f)
 
 
  ### 🏆 GitHub Profile Trophy:
@@ -118,15 +134,17 @@
  </a>
  </p>
 
-### 🔖 Holopins:
-  
-[![@amandewatnitrr's Holopin board](https://holopin.io/api/user/board?user=sattyamjjain)](https://holopin.io/@sattyamjjain)
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://sattyamjain.vercel.app/"><img src="https://img.shields.io/badge/-sattyamjain-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Sattyam%20Jain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sattyamjain"><img src="https://img.shields.io/badge/-Sattyam%20Jain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sattyamjain96@gmail.com"><img src="https://img.shields.io/badge/-sattyamjain96@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sattyam_jjain"><img src="https://img.shields.io/badge/-@sattyam_jjain-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://kaggle.com/sattyam96"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
+<a href="https://dev.to/sattyamjjain"><img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="https://github.com/sattyamjjain"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://medium.com/@sattyamjain96"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white"/></a>
+<a href="https://twitter.com/Sattyamjjain"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
