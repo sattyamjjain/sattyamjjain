@@ -4,7 +4,7 @@
 [![GitHub sattyamjjain](https://img.shields.io/github/followers/sattyamjjain?label=follow&style=social)](https://github.com/sattyamjjain)&nbsp;
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sattyamjaiv)
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg)
 
 # <p align="center"><h4 align="center"><samp> A Senior Software Developer, An Open Source Contributor, An AI/ML Evangelist  ☁ A Tech Experiment Lover </samp></h4></p>
 
