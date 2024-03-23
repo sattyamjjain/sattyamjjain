@@ -11,7 +11,7 @@
 <div>
 <br>
 
-- 👨‍💻 <samp><b>Senior Software Engineer III @ Zenarate | Gurgaon, India</b>
+- 👨‍💻 <samp><b>Software Development Engineer III @ Zenarate | Gurgaon, India</b>
 - 🚀 <samp><b>Driving innovative software solutions at Zenarate, leveraging Python, MongoDB, GitHub, and AWS</b>
 - 🧠 <samp><b>Passionate about pioneering technologies like AI/ML and DevOps tools</b>
 - 🎓 <samp><b>MCA from Madhav Institute of Technology and Science, Gwalior with certifications in data science, AI, Python, and JavaScript</b>
