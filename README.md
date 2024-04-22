@@ -87,27 +87,50 @@
 </p>
 
   
-<h3><b><samp>Check out my Published Packages</samp></b></h3>
+<div style="text-align: center;">
+  <h3><b><samp>Check out my Published Packages</samp></b></h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://pypi.org/project/pyAGI/">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=pyAGI" />
-      </a>
-    </td>
-    <td>
-      <a href="https://pub.dev/packages/dtwdistance">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=dtwdistance" />
-      </a>
-    </td>
-    <td>
-      <a href="https://pypi.org/project/PyDSAlgo/">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=PyDSAlgo" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <a href="https://pypi.org/project/pyAGI/">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=pyAGI" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://pub.dev/packages/dtwdistance">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=dtwdistance" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://pypi.org/project/PyDSAlgo/">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sattyamjjain&repo=PyDSAlgo" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div style="text-align: center;">
+  <h3><b><samp>Check out my Open Source Contribution</samp></b></h3>
+
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <a href="https://github.com/datasignstech/pyluca">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=datasignstech&repo=pyluca" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://pypi.org/project/pydictable/">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pskd73&repo=pydictable" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <hr>
 
