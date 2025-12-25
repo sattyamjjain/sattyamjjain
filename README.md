@@ -4,7 +4,8 @@ Repo name must be exactly: sattyamjjain/sattyamjjain
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Sattyam%20Jain&fontSize=54&fontAlignY=36&desc=Tech%20Lead%20%E2%80%A2%20GenAI%20%26%20Multi-Agent%20Systems%20%E2%80%A2%20Cloud%20Architecture&descAlignY=58&animation=fadeIn&color=0:0EA5E9,100:8B5CF6" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Sattyam%20Jain&fontSize=54&fontAlignY=36&desc=Tech%20Lead%20-%20GenAI%20and%20Multi-Agent%20Systems%20-%20Cloud%20Architecture&descAlignY=58&animation=fadeIn&color=0:0EA5E9,100:8B5CF6"
+       alt="header" />
 </p>
 
 <p align="center">
