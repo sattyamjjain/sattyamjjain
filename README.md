@@ -29,16 +29,17 @@ README for: github.com/sattyamjjain
 
 ## About Me
 
-I'm a **Tech Lead (GenAI & Multi-Agent Systems)** building production-grade AI platforms that ship real outcomes — not demos.
+I'm a **GenAI Architect & Tech Lead** building production-grade AI platforms that ship real outcomes — not demos.
 I focus on **agent orchestration, reliability, cost efficiency, observability, and cloud-native architecture**.
 
 **Highlights**
 - **pyAGI** — autonomous agent framework **acquired** (AGI House ecosystem)
 - **Agentify** — production multi-agent platform (**15+ specialized agents**) with enterprise reliability
-- **MannSetu** — voice-first AI mental wellness platform for India
-- Built systems with measurable impact: **cost reduction, uptime, faster delivery, better operations**
+- **MannSetu** — voice-first AI mental wellness platform for India (**50+ active users**)
+- **VAJRA** — autonomous find-and-fetch robot (Jetson Orin Nano + ROS 2 + NanoOWL) — **building in public**
+- Built systems with measurable impact: **70% LLM cost reduction, 99.9% uptime**
 
-> If you want a 10-second summary: I build **agentic systems that are operable in production**.
+> If you want a 10-second summary: I build **agentic systems that work in production — software and physical**.
 
 ---
 
@@ -114,16 +115,16 @@ I focus on **agent orchestration, reliability, cost efficiency, observability, a
       <img src="https://img.shields.io/github/languages/top/sattyamjjain/agent-airlock?style=flat" />
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/sattyamjjain/Fundify"><b>Fundify</b></a><br/>
-      <sub>AI-powered bank statement analyzer that auto-categorizes transactions. Built with FastAPI, MQTT & Docker. Supports LLaMA, Gemma & other LLMs for financial insights.</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/sattyamjjain/Fundify?style=flat&label=stars" />
-      <img src="https://img.shields.io/github/languages/top/sattyamjjain/Fundify?style=flat" />
+      <a href="https://github.com/sattyamjjain/vajra"><b>vajra</b></a><br/>
+      <sub>Autonomous find-and-fetch robot. Jetson Orin Nano + ROS 2 + NanoOWL vision. Named after Indra's thunderbolt. Building in public.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/sattyamjjain/vajra?style=flat&label=stars" />
+      <img src="https://img.shields.io/github/languages/top/sattyamjjain/vajra?style=flat" />
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/sattyamjjain/pyPantry"><b>pyPantry</b></a><br/>
-      <sub>Comprehensive Python library with 90+ data structures, algorithms & design patterns. A reliable resource for educators, students & developers.</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/sattyamjjain/pyPantry?style=flat&label=stars" />
-      <img src="https://img.shields.io/github/languages/top/sattyamjjain/pyPantry?style=flat" />
+      <a href="https://github.com/sattyamjjain/inksight"><b>inksight</b></a><br/>
+      <sub>Forensic signature verification using computer vision and ML. Compares questioned signatures against reference samples for document authenticity.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/sattyamjjain/inksight?style=flat&label=stars" />
+      <img src="https://img.shields.io/github/languages/top/sattyamjjain/inksight?style=flat" />
     </td>
   </tr>
 </table>
@@ -173,10 +174,11 @@ I focus on **agent orchestration, reliability, cost efficiency, observability, a
 
 ---
 
-## Writing & Notes
+## Writing & Newsletter
 
-- **Dev.to:** [dev.to/sattyamjjain](https://dev.to/sattyamjjain)
+- **Newsletter:** [The Production Agent](https://theproductionagent.substack.com) — weekly lessons from running 15+ agents in production
 - **Medium:** [medium.com/@sattyamjain96](https://medium.com/@sattyamjain96)
+- **Dev.to:** [dev.to/sattyamjjain](https://dev.to/sattyamjjain)
 - **Website:** [sattyamjjain.in](https://www.sattyamjjain.in/)
 
 ---
@@ -184,9 +186,9 @@ I focus on **agent orchestration, reliability, cost efficiency, observability, a
 ## Connect with Me
 
 I'm open to:
-- **Agentic AI / GenAI platform engineering** (Staff / Lead level)
-- **Advisory + selective consulting** (agent platforms, infra, observability, cost control)
-- **Open-source collaborations**
+- **Advisory + consulting** (agent architecture, security, cost optimization)
+- **Open-source collaborations** (especially agent governance & physical AI)
+- **Speaking** at conferences and meetups on production AI systems
 
 <p align="center">
   <a href="mailto:sattyamjain96@gmail.com"><img src="https://img.shields.io/badge/Email-sattyamjain96@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
