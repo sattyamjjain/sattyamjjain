@@ -121,13 +121,28 @@ I focus on **agent orchestration, reliability, cost efficiency, observability, a
       <img src="https://img.shields.io/github/languages/top/sattyamjjain/vajra?style=flat" />
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/sattyamjjain/inksight"><b>inksight</b></a><br/>
-      <sub>Forensic signature verification using computer vision and ML. Compares questioned signatures against reference samples for document authenticity.</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/sattyamjjain/inksight?style=flat&label=stars" />
-      <img src="https://img.shields.io/github/languages/top/sattyamjjain/inksight?style=flat" />
+      <a href="https://github.com/sattyamjjain/agent-audit-kit"><b>agent-audit-kit</b></a><br/>
+      <sub>Security scanner for MCP-connected AI agent pipelines. 77 rules, 13 scanners, OWASP Agentic 10/10, GitHub Action, SARIF, taint analysis, tool poisoning detection.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/sattyamjjain/agent-audit-kit?style=flat&label=stars" />
+      <img src="https://img.shields.io/github/languages/top/sattyamjjain/agent-audit-kit?style=flat" />
     </td>
   </tr>
 </table>
+
+
+---
+
+## AI Agent Security Stack
+
+I'm building the open-source security infrastructure for AI agents — from static analysis to runtime firewalls to operational control planes.
+
+| Layer | Project | What It Does |
+|-------|---------|-------------|
+| **Pre-deployment scanning** | [agent-audit-kit](https://github.com/sattyamjjain/agent-audit-kit) | Static security scanner — 77 rules, SARIF, OWASP 10/10, taint analysis |
+| **Runtime firewall** | [agent-airlock](https://github.com/sattyamjjain/agent-airlock) | Validates tool calls, strips ghost args, PII masking, RBAC, sandboxing |
+| **Operations control plane** | [ferrumdeck](https://github.com/sattyamjjain/ferrumdeck) | Rust governance engine, budget enforcement, deny-by-default policies |
+| **Agent memory** | [mnemo](https://github.com/sattyamjjain/mnemo) | MCP-native memory database, semantic search, context windowing |
+| **Browser security** | [zerotrust](https://github.com/sattyamjjain/zerotrust) | On-device AI threat detection, privacy-first, runs entirely in browser |
 
 <details>
 <summary><b>More Notable Projects</b></summary>
