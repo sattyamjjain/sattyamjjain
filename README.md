@@ -3,7 +3,7 @@ README for: github.com/sattyamjjain
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Sattyam%20Jain&fontSize=54&fontAlignY=36&desc=Production%20Agentic%20AI%20%7C%20Software%20%2B%20Physical&descAlignY=58&animation=fadeIn&color=0:0EA5E9,100:8B5CF6"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Sattyam%20Jain&fontSize=54&fontAlignY=36&desc=I%20ship%20production%20agents.%20And%20police%20them.&descAlignY=58&animation=fadeIn&color=0:0EA5E9,100:8B5CF6"
        alt="header" />
 </p>
 
@@ -16,7 +16,7 @@ README for: github.com/sattyamjjain
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Production-grade+Agentic+AI+%7C+LLM+Orchestration+%7C+Agent+Security;Building+the+open-source+security+stack+for+AI+agents;Physical+AI+in+public:+VAJRA+robot+%2B+Provael+red-team" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=I+ship+production+agents.+And+police+them.;Open-source+security+for+AI+agents:+scan,+contract,+red-team;Measured,+dated,+published+with+the+nulls" alt="typing" />
 </p>
 
 <p align="center">
@@ -29,16 +29,16 @@ README for: github.com/sattyamjjain
 
 ## About Me
 
-I'm a **GenAI Architect & Tech Lead at [Attri.ai](https://attri.ai)** building production-grade AI platforms that ship real outcomes, not demos. I focus on **agent orchestration, reliability, cost efficiency, observability, and agent security**, for both software agents and physical AI.
+I'm a **Tech Lead at [Attri.ai](https://attri.ai)**. By day I build production multi-agent systems. After hours I build the open-source tools that police them: **agent-audit-kit** (a static scanner for MCP and agent pipelines), **agent-airlock** (a deny-by-default contract layer for agent tool calls) and **Provael** (red-teaming robot policies). I publish the numbers, including the nulls.
 
 **Highlights**
-- **Provael:** red-team & assurance for physical AI (attacks VLA robot policies, reports attack-success rate with a 95% CI). I authored the **Embodied AI Security Top 10**. [provael.com](https://www.provael.com)
-- **Agentify:** Attri.ai's flagship multi-agent platform (**15+ specialized agents**); **~70% LLM cost cut**, **99.9% uptime** via a cascading router + E2B micro-VM sandboxing
-- **MannSetu:** solo-built voice-first AI mental wellness platform for India (**50+ active users · 10K+ conversations · 4.8/5**)
-- **VAJRA:** autonomous find-and-fetch robot (Jetson Orin Nano + ROS 2 + NanoOWL), **building in public**
-- **pyAGI:** early open-source Python agent framework (2023), **acquired 2025** by Kyle Morris (banana.dev co-founder) & Jeffrey
+- **The State of MCP Security 2026:** I scanned 2,303 public MCP server configs; **50.6% declare a remote server with no authentication**. Reproducible offline. [Read the report](https://github.com/sattyamjjain/agent-audit-kit/blob/main/research/state-of-mcp-2026/REPORT.md)
+- **Provael:** red-team and assurance for vision-language-action robot policies, in simulation, with every result reported against a benign control and a 95% interval. **Black Hat Europe 2026 Arsenal.** I also wrote the **Embodied AI Security Top 10**. [provael.com](https://www.provael.com)
+- **Agentify:** Attri.ai's flagship multi-agent platform (**15+ specialized agents**), with a cascading model router and E2B micro-VM sandboxing
+- **MannSetu:** solo-built, voice-first AI mental wellness companion for India, live at [mannsetu.com](https://mannsetu.com) with early users
+- **pyAGI:** an early open-source Python agent framework (2023), acquired by Kyle Morris (co-founder of Banana.dev) and Jeffrey for $10,000
 
-> If you want a 10-second summary: I build **agentic systems that work in production, software and physical.**
+> 10-second summary: **I ship production agents. And police them.**
 
 ---
 
@@ -78,7 +78,7 @@ I'm a **GenAI Architect & Tech Lead at [Attri.ai](https://attri.ai)** building p
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GenAI-Claude%20%7C%20GPT--5.5%20%7C%20Gemini%203%20%7C%20Reasoning%20Models-111827?style=flat" />
+  <img src="https://img.shields.io/badge/GenAI-Claude%20%7C%20GPT%20%7C%20Gemini%20%7C%20Reasoning%20Models-111827?style=flat" />
   <img src="https://img.shields.io/badge/Agents-LangGraph%20%7C%20LangChain%20%7C%20MCP%20%7C%20Custom%20Orchestration-111827?style=flat" />
   <img src="https://img.shields.io/badge/RAG-pgvector%20%7C%20FAISS%20%7C%20Hybrid%20Search-111827?style=flat" />
   <img src="https://img.shields.io/badge/Security-OWASP%20Agentic%20Top--10%20%7C%20Capability%20Leases%20%7C%20Micro--VM-111827?style=flat" />
@@ -92,12 +92,12 @@ I'm building the open-source security infrastructure for AI agents: static analy
 
 | Layer | Project | What It Does |
 |-------|---------|-------------|
-| **Pre-deployment scanning** | [agent-audit-kit](https://github.com/sattyamjjain/agent-audit-kit) | Static security scanner: 77 rules, SARIF, OWASP 10/10, taint analysis |
-| **Runtime firewall** | [agent-airlock](https://github.com/sattyamjjain/agent-airlock) | Validates tool calls, strips ghost args, PII masking, RBAC, sandboxing |
+| **Pre-deployment scanning** | [agent-audit-kit](https://github.com/sattyamjjain/agent-audit-kit) | Static scanner for MCP and agent pipelines: 415 rules (v0.6.25), SARIF, GitHub Action, OWASP Agentic and MCP Top-10 coverage |
+| **Runtime firewall** | [agent-airlock](https://github.com/sattyamjjain/agent-airlock) | Deny-by-default contract layer for agent tool calls: argument validation, ghost-argument stripping, capability leases |
 | **Operations control plane** | [ferrumdeck](https://github.com/sattyamjjain/ferrumdeck) | Rust governance engine, budget enforcement, deny-by-default policies |
-| **Agent memory** | [mnemo](https://github.com/sattyamjjain/mnemo) | MCP-native memory database, semantic search, context windowing |
+| **Agent memory** | [mnemo](https://github.com/sattyamjjain/mnemo) | On-prem, MCP-native agent memory with a hash-chained log an auditor can verify |
 | **Browser security** | [zerotrust](https://github.com/sattyamjjain/zerotrust) | On-device AI threat detection, privacy-first, runs entirely in browser |
-| **Embodied / physical AI** | [Provael](https://github.com/provael/provael) | Red-teams VLA robot policies; attack-success rate with 95% CI; I authored the Embodied AI Security Top 10 |
+| **Embodied / physical AI** | [Provael](https://github.com/provael/provael) | Red-teams VLA robot policies in simulation; attack-success rate against a benign control with a 95% interval; Black Hat Europe 2026 Arsenal |
 
 ---
 
@@ -107,13 +107,13 @@ I'm building the open-source security infrastructure for AI agents: static analy
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/sattyamjjain/agent-audit-kit"><b>agent-audit-kit</b></a><br/>
-      <sub>Security scanner for MCP-connected AI agent pipelines. 77 rules, 13 scanners, OWASP Agentic 10/10, GitHub Action, SARIF, taint analysis, tool poisoning detection.</sub><br/><br/>
+      <sub>Static scanner for MCP-connected agent pipelines. 415 rules, OWASP Agentic and MCP Top-10, GitHub Action, SARIF, and the State of MCP Security 2026 census.</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/sattyamjjain/agent-audit-kit?style=flat&label=stars" />
       <img src="https://img.shields.io/github/languages/top/sattyamjjain/agent-audit-kit?style=flat" />
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/sattyamjjain/agent-airlock"><b>agent-airlock</b></a><br/>
-      <sub>Security firewall for AI agents: validates tool calls, strips ghost arguments, enforces type safety, PII masking, RBAC, cost tracking & sandbox isolation.</sub><br/><br/>
+      <sub>Deny-by-default contract layer for agent tool calls: strict argument validation, ghost-argument stripping and capability leases, in-process.</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/sattyamjjain/agent-airlock?style=flat&label=stars" />
       <img src="https://img.shields.io/github/languages/top/sattyamjjain/agent-airlock?style=flat" />
     </td>
@@ -127,7 +127,7 @@ I'm building the open-source security infrastructure for AI agents: static analy
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/sattyamjjain/mnemo"><b>mnemo</b></a><br/>
-      <sub>MCP-native AI memory database written in Rust. Persistent conversational memory for AI agents with semantic search, context windowing & efficient vector storage.</sub><br/><br/>
+      <sub>On-prem, MCP-native memory for AI agents, in Rust. Every write lands in a SHA-256 hash-chained log an auditor can verify offline.</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/sattyamjjain/mnemo?style=flat&label=stars" />
       <img src="https://img.shields.io/github/languages/top/sattyamjjain/mnemo?style=flat" />
     </td>
@@ -138,10 +138,10 @@ I'm building the open-source security infrastructure for AI agents: static analy
       <img src="https://img.shields.io/github/languages/top/sattyamjjain/zerotrust?style=flat" />
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/sattyamjjain/vajra"><b>vajra</b></a><br/>
-      <sub>Autonomous find-and-fetch robot. Jetson Orin Nano + ROS 2 + NanoOWL vision. Named after Indra's thunderbolt. Building in public.</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/sattyamjjain/vajra?style=flat&label=stars" />
-      <img src="https://img.shields.io/github/languages/top/sattyamjjain/vajra?style=flat" />
+      <a href="https://github.com/provael/provael"><b>provael</b></a><br/>
+      <sub>Red-team and assurance for VLA robot policies, in simulation. Results against a benign control with a 95% interval. Black Hat Europe 2026 Arsenal.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/provael/provael?style=flat&label=stars" />
+      <img src="https://img.shields.io/github/languages/top/provael/provael?style=flat" />
     </td>
   </tr>
 </table>
@@ -152,7 +152,7 @@ I'm building the open-source security infrastructure for AI agents: static analy
 
 | Project | What it is | Links |
 |---|---|---|
-| **pyAGI** | Early open-source Python agent framework (2023); acquired 2025 by Kyle Morris & Jeffrey | [Repo](https://github.com/sattyamjjain/pyAGI) · ![Stars](https://img.shields.io/github/stars/sattyamjjain/pyAGI?style=flat&label=stars) |
+| **pyAGI** | Early open-source Python agent framework (2023); acquired by Kyle Morris and Jeffrey for $10,000 | [Repo](https://github.com/sattyamjjain/pyAGI) · ![Stars](https://img.shields.io/github/stars/sattyamjjain/pyAGI?style=flat&label=stars) |
 | **inksight** | Forensic signature verification with explainable AI (`pip install inksight`) | [Repo](https://github.com/sattyamjjain/inksight) · ![Stars](https://img.shields.io/github/stars/sattyamjjain/inksight?style=flat&label=stars) |
 | **AgentX** | Unified agent framework playground (tools + eval + obs) | [Repo](https://github.com/sattyamjjain/AgentX) · ![Stars](https://img.shields.io/github/stars/sattyamjjain/AgentX?style=flat&label=stars) |
 | **PrimeAcrossAll** | Same problem across many languages (Docker-based) | [Repo](https://github.com/sattyamjjain/PrimeAcrossAll) · ![Stars](https://img.shields.io/github/stars/sattyamjjain/PrimeAcrossAll?style=flat&label=stars) |
@@ -194,7 +194,7 @@ I'm building the open-source security infrastructure for AI agents: static analy
 
 ## Writing & Newsletter
 
-- **Serialized book:** [The Production Agent](https://theproductionagent.substack.com), how to ship agentic AI to production without getting paged at 3am (5 chapters, 1-2 free)
+- **Newsletter and book:** [The Production Agent](https://theproductionagent.substack.com), how to ship agentic AI to production without getting paged at 3am (chapters 1 and 2 drafted, free to read)
 - **Medium:** [medium.com/@sattyamjain96](https://medium.com/@sattyamjain96)
 - **Dev.to:** [dev.to/sattyamjjain](https://dev.to/sattyamjjain)
 - **Website:** [sattyamjjain.in](https://www.sattyamjjain.in/)
